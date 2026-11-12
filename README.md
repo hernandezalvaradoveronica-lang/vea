@@ -1,2 +1,4 @@
 # vea
-cd de gif
+cd de git
+veronica
+5A
